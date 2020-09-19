@@ -1,38 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notre-Dame de Paris</title>
+    <title>冲，Go，行け on 山楂馄饨</title>
     <link>https://kealuya.github.io/</link>
-    <description>Recent content on Notre-Dame de Paris</description>
+    <description>Recent content in 冲，Go，行け on 山楂馄饨</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 19:12:19 +0800</lastBuildDate><atom:link href="https://kealuya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Sep 2020 19:12:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://kealuya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>First</title>
-      <link>https://kealuya.github.io/post/first/</link>
+      <title>我写代码时的心情</title>
+      <link>https://kealuya.github.io/post/%E6%88%91%E5%86%99%E4%BB%A3%E7%A0%81%E6%97%B6%E7%9A%84%E5%BF%83%E6%83%85/</link>
       <pubDate>Thu, 17 Sep 2020 19:12:19 +0800</pubDate>
       
-      <guid>https://kealuya.github.io/post/first/</guid>
-      <description></description>
+      <guid>https://kealuya.github.io/post/%E6%88%91%E5%86%99%E4%BB%A3%E7%A0%81%E6%97%B6%E7%9A%84%E5%BF%83%E6%83%85/</guid>
+      <description>当你改错一行代码的时候 终端用户不知道该如何使用你开发软件的时候 当你经过一夜鏖战后第一次运行开发出的脚本时的样子 当所有人都在办公室挥汗如雨的加班，而你却能安然的回家度周末时的样子 当你听说解决完这个问题就把项目交给别人的时候 </description>
     </item>
     
     <item>
-      <title>First</title>
-      <link>https://kealuya.github.io/post/second/</link>
-      <pubDate>Thu, 17 Sep 2020 19:12:19 +0800</pubDate>
+      <title>Markdown标记</title>
+      <link>https://kealuya.github.io/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kealuya.github.io/post/second/</guid>
-      <description>3.9 表格 可以使用冒号来定义表格的对齐方式，如下：
-   姓名 年龄 工作     小可爱 18 吃可爱多   小小勇敢 20 爬棵勇敢树   小小小机智 22 看一本机智书    宽度过长的表格可以滚动，可在自定义主题中调节宽度：
-   姓名 年龄 工作 邮箱 手机     小可爱 18 吃可爱多 lovely@test.com 18812345678   小小勇敢 20 爬棵勇敢树 brave@test.com 17712345678   小小小机智 22 看一本机智书 smart@test.com 16612345678    </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://kealuya.github.io/about/</link>
-      <pubDate>Thu, 17 Sep 2020 15:24:19 +0800</pubDate>
-      
-      <guid>https://kealuya.github.io/about/</guid>
+      <guid>https://kealuya.github.io/markdown/</guid>
       <description>请使用 Chrome 浏览器。
 请阅读下方文本熟悉工具使用方法，本文可直接拷贝到微信中预览。
 1 Markdown Nice 简介  支持自定义样式的 Markdown 编辑器 支持微信公众号、知乎和稀土掘金 欢迎扫码回复「排版」加入用户群  2 主题 https://preview.mdnice.com/themes/
@@ -47,13 +40,12 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://kealuya.github.io/contact/</link>
+      <title>关于</title>
+      <link>https://kealuya.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kealuya.github.io/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
+      <guid>https://kealuya.github.io/about/</guid>
+      <description>动图爱好者  主要工作  换水 做卫生 锁门  偶尔写写代码 接受来自社会各界的关爱</description>
     </item>
     
   </channel>
